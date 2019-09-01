@@ -1,6 +1,6 @@
 # Разметка фотоизображений для задачи детектирования объектов
 
-Видео по работе с инструментом разметки[ссылка на видео](https://drive.google.com/file/d/1iceUnk7Z8349KaOne3nG9c2LGG9HJrkL/view?usp=sharing) 
+Видео по работе с инструментом разметки - [ссылка на видео](https://drive.google.com/file/d/1iceUnk7Z8349KaOne3nG9c2LGG9HJrkL/view?usp=sharing) 
 
 1. Скачиваем labelimg на компьютер https://github.com/tzutalin/labelImg
 2. Устанавливаем виртуальное окружение
@@ -22,4 +22,4 @@
 
 ## Подготовка  фотоизображений для разметки
 
-Python snippets для кадрирования и фильтрации изображений[ссылка на Jupyter Notebook](pipeline.ipynb) 
+Python snippets для кадрирования и фильтрации изображений - [ссылка на Jupyter Notebook](pipeline.ipynb) 
